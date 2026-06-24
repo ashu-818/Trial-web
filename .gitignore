@@ -1,0 +1,14 @@
+# Ignore zip files (like the frames zip)
+*.zip
+*.rar
+*.7z
+
+# Ignore editor-specific and IDE folders
+.vscode/
+.qodo/
+.idea/
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+build/
